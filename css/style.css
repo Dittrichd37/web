@@ -3,6 +3,7 @@
     width: 100px;
     height: 100px;
     color: red;
+    border-bottom-right-radius: ;
 }
 .box2{
     width: 100px;
@@ -13,4 +14,13 @@
     width: 300px;
     height: 100px;
     color: green;
+}
+
+.box1
+.box2
+.box3{
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    border-spacing: 2px;
 }
