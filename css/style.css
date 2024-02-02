@@ -31,5 +31,8 @@
     border: 4px;
     width: 100px;
     height: 100px;
+    padding: 5px;
+    border-color: black;
+    border-spacing: 2px;
     
 }
