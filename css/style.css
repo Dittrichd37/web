@@ -40,3 +40,20 @@
 .tartomany{
     
 }
+
+p{
+    color: firebrick;
+}
+nav a{
+    color: green;
+    text-decoration: none;
+    background-color: navajowhite;
+}
+nav a:hover{
+    color: blue;
+    font-size: large;
+}
+
+.evszakokbody{
+    
+}
