@@ -38,6 +38,9 @@
 }
 
 .tartomany{
+    margin: auto;
+    text-align: center;
+    border: solid black;
     
 }
 
@@ -54,10 +57,3 @@ nav a:hover{
     font-size: large;
 }
 
-.evszakokbody{
-    
-}
-
-.navtartomany{
-    background-image: url(papers.co-vy17-line-dark-pattern-background-black-29-wallpaper.jpg);
-}
